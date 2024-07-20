@@ -3,6 +3,7 @@
 **1️⃣Upgrade Ubuntu Packages & Create Screen for Nubit**
 
 sudo apt-get update
+sudo apt-get upgrade -y
 sudo apt install git
 sudo apt install nano
 sudo apt install screen 
@@ -21,3 +22,4 @@ curl -sL1 https://nubit.sh | bash
 2️⃣Then Put Curl Command: curl -sL1 https://nubit.sh | bash
 
 
+    pm2
